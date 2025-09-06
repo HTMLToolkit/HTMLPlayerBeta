@@ -201,4 +201,4 @@ const r=`/* Aurora */
     --shadow-focus: 0 0 0 2px hsla(250, 60%, 50%, 0.25),
         0 1px 2px hsla(220, 25%, 0%, 0.1);
 }`;export{r as default};
-//# sourceMappingURL=Aurora.theme-CtW3Qsme.js.map
+//# sourceMappingURL=CottonCandy.theme-CtW3Qsme.js.map
