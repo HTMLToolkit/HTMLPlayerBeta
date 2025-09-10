@@ -9,7 +9,7 @@ const r=`/* Blue */
   --themecolor1-transparent: hsla(195, 100%, 50%, 0.5);
   --themecolor2-transparent: hsla(224, 64%, 33%, 0.5);
   --themecolor3-transparent: hsla(199, 89%, 48%, 0.5);
-  --menu-background: hsla(224, 64%, 33%, 0.35);
+  --menu-background: hsla(203, 60%, 45%, 0.575);
 
   /* Foreground */
   --foreground: hsl(220, 15%, 20%);
@@ -201,4 +201,4 @@ const r=`/* Blue */
   --shadow-focus: 0 0 0 2px hsla(215, 70%, 60%, 0.25),
     0 1px 2px hsla(220, 15%, 0%, 0.1);
 }`;export{r as default};
-//# sourceMappingURL=Blue.theme-xDmEM0bc.js.map
+//# sourceMappingURL=Blue.theme-BLbX3FDz.js.map
