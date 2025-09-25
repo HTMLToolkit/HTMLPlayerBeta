@@ -85,12 +85,15 @@ const r=`/* Red */
 
   /* Miscellaneous */
   --certain-icons: var(--themecolor);
-  --albumart-gradient: linear-gradient(135deg, var(--themecolor1) 0%, var(--themecolor2) 100%);
+  --albumart-gradient: linear-gradient(
+    135deg,
+    var(--themecolor1) 0%,
+    var(--themecolor2) 100%
+  );
 
   /* Shadows */
   --border: hsl(0, 15%, 90%);
-  --shadow: 0 1px 2px hsla(0, 15%, 5%, 0.05),
-    0 3px 6px hsla(0, 15%, 5%, 0.07);
+  --shadow: 0 1px 2px hsla(0, 15%, 5%, 0.05), 0 3px 6px hsla(0, 15%, 5%, 0.07);
   --shadow-md: 0 1px 3px hsla(0, 15%, 5%, 0.05),
     0 10px 15px -5px hsla(0, 15%, 5%, 0.05),
     0 20px 25px -5px hsla(0, 15%, 5%, 0.04);
@@ -186,12 +189,15 @@ const r=`/* Red */
 
   /* Miscellaneous */
   --certain-icons: hsl(0, 75%, 45%);
-  --albumart-gradient: linear-gradient(135deg, var(--themecolor1) 0%, var(--themecolor2) 100%);
+  --albumart-gradient: linear-gradient(
+    135deg,
+    var(--themecolor1) 0%,
+    var(--themecolor2) 100%
+  );
 
   /* Shadows */
   --border: hsl(0, 55%, 20%);
-  --shadow: 0 1px 2px hsla(0, 55%, 0%, 0.1),
-    0 3px 6px hsla(0, 55%, 0%, 0.15);
+  --shadow: 0 1px 2px hsla(0, 55%, 0%, 0.1), 0 3px 6px hsla(0, 55%, 0%, 0.15);
   --shadow-md: 0 1px 3px hsla(0, 55%, 0%, 0.1),
     0 10px 15px -5px hsla(0, 55%, 0%, 0.1),
     0 20px 25px -5px hsla(0, 55%, 0%, 0.08);
@@ -200,5 +206,6 @@ const r=`/* Red */
     0 30px 40px -5px hsla(0, 55%, 0%, 0.1);
   --shadow-focus: 0 0 0 2px hsla(0, 75%, 35%, 0.25),
     0 1px 2px hsla(0, 55%, 0%, 0.1);
-}`;export{r as default};
-//# sourceMappingURL=Red.theme-CfTWNcsN.js.map
+}
+`;export{r as default};
+//# sourceMappingURL=Red.theme-BU-WfGS3.js.map
